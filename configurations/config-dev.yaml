@@ -1,0 +1,8 @@
+application: 
+  port: 1000
+nx-witness:
+  host: nx-host
+  user: user
+  password: password
+directory: 
+  temp: /temp
